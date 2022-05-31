@@ -1,0 +1,2 @@
+Jugador: - stroop- piezas negras: 6 piezas blancas: 14
+Jugador 2: - - piezas negras: 6 piezas blancas: 14
